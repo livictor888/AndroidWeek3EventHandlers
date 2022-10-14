@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">EventHandlers</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="show_message">Show Message</string>
+    <string name="delete_selected_country">delete selected country</string>
+
+    <string name="student">Student</string>
+
+    <string name="junior">Junior</string>
+    <string name="mid_level">Mid-level</string>
+    <string name="senior">Senior</string>
+
+    <string name="key_text">Key</string>
+    <string name="mouse_text">Mouse</string>
+    <string name="touch_text">Touch</string>
+
+    <string name="enter_text_using_keyboard">Enter text using keyboard</string>
+    <string name="enter_key">Enter key pressed</string>
+    <string name="space_key">Space key pressed</string>
+    <string name="period_key">Period key pressed</string>
+    <string name="minus_key">Minus key pressed</string>
+    <string name="semicolon_key">Semi colon key pressed</string>
+    <string name="done">Done</string>
+
+    <string-array name="seasons">
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+        <item>Winter</item>
+    </string-array>
+</resources>
